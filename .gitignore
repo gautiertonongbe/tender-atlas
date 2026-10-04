@@ -1,0 +1,12 @@
+.next/
+node_modules/
+.env.local
+.env
+*.pptx
+*.pdf
+dist/
+tsconfig.tsbuildinfo
+
+.DS_Store
+*.json.bak
+*-backup-*.json
